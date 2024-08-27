@@ -5,7 +5,7 @@ Docker service for <[https://github.com/KichangKim/DeepDanbooru](https://github.
 ## Threshold
 
 API's param add with Threshold.
-By default, this is set to `0.1`.
+The minimum value of Threshold is `0.1`.
 
 ```
 curl -X 'POST' \
